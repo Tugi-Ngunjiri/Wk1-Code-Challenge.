@@ -1,4 +1,3 @@
-# Wk1-Code-Challenge.
 Name"Tugi_Ngunjiri;
 {
   "name": "Wk1-Code-Challenge.",
