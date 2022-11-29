@@ -1,4 +1,4 @@
-By Tugi_Ngunjiri.
+By Tugi-Ngunjiri.
 
 Write examples of grades ranging from A to E;GRADES(79 t0 40)
 
