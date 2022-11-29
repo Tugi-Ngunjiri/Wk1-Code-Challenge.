@@ -1,7 +1,9 @@
-Name"Tugi_Ngunjiri;
-Write examples of grades ranging from A to E;
- GRADES(79 t0 40)
-Write examples of different speed limits.
+By Tugi_Ngunjiri.
+
+Write examples of grades ranging from A to E;GRADES(79 t0 40)
+
+Write examples of different speed limits.eg(180:points 14)
+
  
 
 List diffferent tax rates of (Kra,NHIF and NSSF , respectively;
@@ -18,9 +20,6 @@ Create NSSF tax rates table.
 
 
 
-Create and old rates table;
+Create and old rates table.
 
 
-
-
-Due to ongoing litigation some employers continue to use the old rates
