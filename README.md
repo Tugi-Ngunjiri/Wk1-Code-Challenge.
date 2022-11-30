@@ -1,5 +1,7 @@
 By Tugi-Ngunjiri.
-
+Run npm install.
+run npm start.
+run to oast the test.
 Write examples of grades ranging from A to E;GRADES(79 t0 40)
 
 Write examples of different speed limits.eg(180:points 14)
