@@ -25,3 +25,5 @@ Create NSSF tax rates table.
 Create and old rates table.
 
 
+use git  add . &&  git commit -m "done"  &&  git push origin master or main to push the assignment to git hub.
+copy the top url for the assignment and paste in submition box.
