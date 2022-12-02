@@ -1,9 +1,4 @@
-{
-  "name": "Wk1-Code-Challenge.",
-  "lockfileVersion": 2,
-  "requires": true,
-  "packages": {}
-}
+
    GRADES.
 console.{"log"}=(marks){}
 let A = 70
@@ -12,14 +7,23 @@ let C = -59 to 49
 let D = - 40 t0 49
 let E = - less than 40
 printvalue()
+<br>
     SPEEED LIMIT.
 console.{"log"}=speed{}
-let Var [80] = "points:14"
-let var [70] = :"points:13"
-let var [60] = "points:11"
-let  var [50] ="points :12"(license suspended)
+<br>
+let A [80] = "points:14"
+console.log(80)
+<br>
+let B[70] = :"points:13"
+console.log(70)
+<br>
+let C[60] = "points:11"
+console.log(60)
+<br>
+let D[50] ="points :12"(license suspended)
+console.log(50)
+<br>
         TAX RATES.
-index0
 
       
 PAYE
