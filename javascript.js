@@ -61,7 +61,7 @@ function nhifCalc(grosspay) {
   let nhifDeductArray=[150, 300, 400, 500, 600, 750, 850, 900, 950, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700];
   
   
-  maxNhifDeduct = nhifDeductArr[nhifDeductArray.length-1]; // for pay above 100,000, max nhif deduction is fixed at 1,700
+  maxNhifDeduct = nhifDeductArray[nhifDeductArray.length-1]; // for pay above 100,000, max nhif deduction is fixed at 1,700
 
   for (let i = 0; i < lowerBoundArray.length; i++) {
       if (i===lowerBoundArr.length-1){
