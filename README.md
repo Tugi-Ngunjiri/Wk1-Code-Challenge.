@@ -13,14 +13,20 @@ Wk1-Code-challenge
 3.run to npm test to test the code.
 
  ==DESCRIPTION==
-<br
->
+
+<br>
+Challenge 1.
+<br>
 4.Write examples of grades ranging from A to E;GRADES(79 t0 40)
 
+Challenge 2.
+<br>
 
 5.Write examples of different speed limits.eg(180:points 14)
 
+ Challenge 3.
  
+  <br>
 
 6.Create a list diffferent tax rates of (Kra,NHIF and NSSF , respectively;
       
@@ -37,3 +43,7 @@ Wk1-Code-challenge
 <br>
 
 2.Submit the assigment.
+
+<br>
+
+licsence -{ISC}

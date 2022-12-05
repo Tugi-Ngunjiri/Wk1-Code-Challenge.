@@ -28,7 +28,7 @@ function speedDetector(speed) {
 
   if (speed < 70) {
       myMessage='OK';
-  }else if(speed >= 75){
+  }else if(speed > 75 && speed < 135){
 
       demeritPts=Math.floor((speed-70)/5);
       myMessage=' Points: '+demeritPts;
@@ -36,13 +36,13 @@ function speedDetector(speed) {
           myMessage=myMessage+' License suspended';
       }
   }else{
-      myMessage='when slowed down the speed limit is exceeded'; //for speeds between 70 and 74 .
+      myMessage='Slowed down the speed limit is exceeded'; //for speeds between 70 and 74 .
   }
 
   return myMessage;
 }
 
-console.log(speedDetector(72));
+console.log(speedDetector(180));
 
 
 
