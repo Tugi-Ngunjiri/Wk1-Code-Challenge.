@@ -21,11 +21,28 @@ else if (marks< 40 && marks >0 ){
 console.log(grades(15));
 
 
-function speed (limits)
 
-if(speed  >= )
+function speedDetector(speed) {
+  let demeritPts;
+  let myMessage;
 
+  if (speed < 70) {
+      myMessage='OK';
+  }else if(speed >= 75){
 
+      demeritPts=Math.floor((speed-70)/5);
+      myMessage=' Points: '+demeritPts;
+      if (demeritPts>12){
+          myMessage=myMessage+' License suspended';
+      }
+  }else{
+      myMessage='when slowed down the speed limit is exceeded'; //for speeds between 70 and 74 .
+  }
+
+  return myMessage;
+}
+
+console.log(speedDetector(72));
 
 
 
