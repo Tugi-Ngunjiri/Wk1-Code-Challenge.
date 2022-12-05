@@ -48,7 +48,7 @@ console.log(speedDetector(180));
 
 
 //Step 1: Calculate nhif deduction amount
-function nhifCalc(grosspay) {
+function nhifCalculation(grosspay) {
   let nhifDeduct;
   let maxNhifDeduct;
   <br></br>
