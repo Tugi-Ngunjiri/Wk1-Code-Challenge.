@@ -1,5 +1,9 @@
 Wk1-Code-challenge
  ## author Tugi Ngunjiri
+#Project
+<br>
+==Intstallation Process==
+
 <br>
 
 1.Run npm install.
@@ -8,6 +12,9 @@ Wk1-Code-challenge
 
 3.run to npm test to test the code.
 
+ ==DESCRIPTION==
+<br
+>
 4.Write examples of grades ranging from A to E;GRADES(79 t0 40)
 
 
@@ -25,12 +32,5 @@ Wk1-Code-challenge
 8.Create NSSF tax rates table.
 
 <br>
-9. Create a table for tier and pensionable pay for employer and employee;
-
-
-
-10.Create and old rates table.
-
-
-11.use git  add . &&  git commit -m "done"  &&  git push origin master or main to push the assignment to git hub.
-copy the top url for the assignment and paste in submition box.
+1. Create a table for tier and pensionable pay for employer and employee;opy the url from the browser and paste into the submision box for the Url.
+2.Submit the assigment.

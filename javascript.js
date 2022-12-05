@@ -9,18 +9,21 @@ function grades(marks){
     return "C"
   }
 
-else if (marks <49 && marks >=40 ){
+else if (marks <49 && marks >=41){
    return  "D"
 }
-else if (marks< 40 && marks >= 0 ){
-  return " Less than 40,E"
+else if (marks< 40 && marks >0 ){
+  return "E"
 }
   
 }
 
-console.log(grades(45));
+console.log(grades(15));
 
 
+function speed (limits)
+
+if(speed  >= )
 
 
 
