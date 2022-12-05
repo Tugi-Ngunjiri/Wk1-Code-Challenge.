@@ -139,11 +139,5 @@ console.log('NETPAY: '+ netPayCalc(80000));
 
 
 
-
-
-
-
-
-
-
+ 
 
