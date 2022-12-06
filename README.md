@@ -1,6 +1,6 @@
 Wk1-Code-challenge
- ## author Tugi Ngunjiri
-#Project
+ ## author Tugi Ngunjiri ,##Project.
+
 <br>
 ==Intstallation Process==
 
@@ -15,16 +15,16 @@ Wk1-Code-challenge
  ==DESCRIPTION==
 
 <br>
-Challenge 1.
+//Challenge 1.
 <br>
 4.Write examples of grades ranging from A to E;GRADES(79 t0 40)
 
-Challenge 2.
+//Challenge 2.
 <br>
 
 5.Write examples of different speed limits.eg(180:points 14)
-
- Challenge 3.
+ <br>
+ //Challenge 3.
  
   <br>
 
