@@ -51,20 +51,20 @@ console.log(speedDetector(180));
 function nhifCalculation(grosspay) {
   let nhifDeduct;
   let maxNhifDeduct;
-  <br></br>
+  
   let lowerBoundArray=[0, 6000, 8000, 12000, 15000, 20000, 25000, 30000, 35000, 40000, 45000, 50000, 60000, 70000, 80000, 90000, 100000];
 
-<br></br>
+
   let upperBoundArray=[5999, 7999, 11999, 14999, 19999, 24999, 29999, 34999, 39999, 44999, 49999, 59999, 69999, 79999, 89999, 99999];
 
-  <br></br>
+  
   let nhifDeductArray=[150, 300, 400, 500, 600, 750, 850, 900, 950, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700];
   
   
   maxNhifDeduct = nhifDeductArray[nhifDeductArray.length-1]; // for pay above 100,000, max nhif deduction is fixed at 1,700
 
   for (let i = 0; i < lowerBoundArray.length; i++) {
-      if (i===lowerBoundArr.length-1){
+      if (i===lowerBoundArray.length-1){
           return maxNhifDeduct;           
 
       }else{
@@ -107,7 +107,7 @@ function deductionsCalc(grosspay){
   let nssf=200; //adopting old rates as new rates are still being contested in court
   console.log('NSSF: '+ nssf)
   // nhif
-  let nhif=nhifCalc(grosspay);
+  let nhif=nhifCalculation(grosspay);
   console.log('NHF: ' +nhif);
 
   // Personal Relief
